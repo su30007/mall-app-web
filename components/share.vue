@@ -12,7 +12,7 @@
 		>
 			<scroll-view class="view-content" scroll-y>
 				<view class="share-header">
-					分享到
+					Share to
 				</view>
 				<view class="share-list">
 					<view 
